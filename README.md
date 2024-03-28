@@ -14,8 +14,8 @@ I'm on a thrilling journey as a MERN stack developer and open-source enthusiast.
 ## Projects Galore!
 
 Dive into some of my mesmerizing projects:
-1. [MediConnection](https://github.com/Cyber-ray2005/MediConnection)): Unravel the magic behind this mystical project!
-2. [Location Weather App]([link](https://github.com/Cyber-ray2005/LocationWeatherApp)): Embark on an exhilarating adventure with this creation!
+1. [MediConnection](https://github.com/Cyber-ray2005/MediConnection): Unravel the magic behind this mystical project!
+2. [Location Weather App](https://github.com/Cyber-ray2005/LocationWeatherApp): Embark on an exhilarating adventure with this creation!
 3. [Journal](https://github.com/Cyber-ray2005/Journal): Prepare to be enchanted by the wonders of this project!
 4. [C++ Clinic Appointment System console app](https://github.com/Cyber-ray2005/clinicAppointmentSystem)
 
