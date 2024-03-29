@@ -2,7 +2,7 @@
 
 ## Hey there, I'm Randy Asamoah!
 
-I'm on a thrilling journey as a MERN stack developer and open-source enthusiast. My passion lies in crafting captivating web applications that not only function flawlessly but also leave users in awe.
+I'm on a thrilling journey as a Full-stack developer and open-source enthusiast. My passion lies in crafting captivating web applications that function flawlessly and leave users in awe.
 
 ## 💻 My Toolbelt
 
@@ -28,4 +28,4 @@ Dive into some of my mesmerizing projects:
 
 Join me on this thrilling adventure by reaching out via [email](mailto:randy.asamoah2003@gmail.com) or connecting with me on [LinkedIn](https://www.linkedin.com/in/randy-yeboah-a3695421a).
 
-Thank you for embarking on this GitHub journey with me! Feel free to explore my repositories and drop a message if you want to join forces or just share some magical coding moments. 🚀✨
+Thank you for embarking on this GitHub journey with me! Feel free to explore my repositories and drop a message if you want to join forces or share some magical coding moments. 🚀✨
