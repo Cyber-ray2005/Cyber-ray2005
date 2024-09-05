@@ -21,7 +21,7 @@ Dive into some of my mesmerizing projects:
 
 ## 📚 Education
 
-- **New York University Abu Dhabi**
+- **New York University**
   - Pursuing a Bachelor of Science in Computer Science (Expected Graduation: December 2025)
 
 ## Let's Connect!
