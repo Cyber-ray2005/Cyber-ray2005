@@ -18,6 +18,7 @@ Dive into some of my mesmerizing projects:
 2. [Location Weather App](https://github.com/Cyber-ray2005/LocationWeatherApp): Embark on an exhilarating adventure with this creation!
 3. [Journal](https://github.com/Cyber-ray2005/Journal): Prepare to be enchanted by the wonders of this project!
 4. [C++ Clinic Appointment System console app](https://github.com/Cyber-ray2005/clinicAppointmentSystem)
+5. [AI TextSummarizer and TextToImageGenerator web app](https://github.com/Cyber-ray2005/sumSth)
 
 ## 📚 Education
 
