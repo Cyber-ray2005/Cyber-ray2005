@@ -7,8 +7,8 @@ I'm on a thrilling journey as a Full-stack developer and open-source enthusiast.
 ## 💻 My Toolbelt
 
 - **Frontend**: React.js, HTML, CSS, JavaScript, Tailwind
-- **Backend **: Node.js, Express.js
-- **Database **: MongoDB, Mongoose
+- **Backend**: Node.js, Express.js
+- **Database**: MongoDB, Mongoose
 - **General Dev Tools**: Git, GitHub, VS Code, Heroku, Firebase, Postman
 
 ## Projects Galore!
