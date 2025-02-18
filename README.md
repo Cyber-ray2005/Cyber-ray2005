@@ -13,12 +13,13 @@ I'm on a thrilling journey as a Full-stack developer and open-source enthusiast.
 
 ## Projects Galore!
 
-Dive into some of my mesmerizing projects:
-1. [MediConnection](https://github.com/Cyber-ray2005/MediConnection): Unravel the magic behind this mystical project!
-2. [Location Weather App](https://github.com/Cyber-ray2005/LocationWeatherApp): Embark on an exhilarating adventure with this creation!
-3. [Journal](https://github.com/Cyber-ray2005/Journal): Prepare to be enchanted by the wonders of this project!
-4. [C++ Clinic Appointment System console app](https://github.com/Cyber-ray2005/clinicAppointmentSystem)
-5. [AI TextSummarizer and TextToImageGenerator web app](https://github.com/Cyber-ray2005/sumSth)
+Dive into some of my projects:
+1. [MediConnection](https://github.com/Cyber-ray2005/MediConnection)
+2. [Advanced GPA Calculator](https://github.com/Cyber-ray2005/Advanced-GPA-Calculator)
+3. [C++ Clinic Appointment System console app](https://github.com/Cyber-ray2005/clinicAppointmentSystem)
+4. [AI TextSummarizer and TextToImageGenerator web app](https://github.com/Cyber-ray2005/sumSth)
+5. [Location Weather App](https://github.com/Cyber-ray2005/LocationWeatherApp)
+6. [Journal](https://github.com/Cyber-ray2005/Journal)
 
 ## 📚 Education
 
